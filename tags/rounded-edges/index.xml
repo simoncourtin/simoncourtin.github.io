@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rounded edges on Simon Courtin</title>
+    <link>https://simoncourtin.github.io/tags/rounded-edges/</link>
+    <description>Recent content in Rounded edges on Simon Courtin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://simoncourtin.github.io/tags/rounded-edges/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient Rendering of Rounded Corners and Edges for Convex Objects</title>
+      <link>https://simoncourtin.github.io/publication/efficient-rendering-rounded-corners-edges-convex-object/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/publication/efficient-rendering-rounded-corners-edges-convex-object/</guid>
+      <description>any manufactured objects and worn surfaces exhibit rounded corners and edges. These fine details are a source of sharp highlights and shading effects, important to our perception between joining surfaces. However, their representation is often neglected because they introduce complex geometric meshing in very small areas. This paper presents a new method for managing thin rounded corners and edges without explicitly modifying the underlying geometry, so as to produce their visual effects in sample-based rendering algorithms (e.g., ray tracing and path tracing). Our method relies on positioning virtual spheres and cylinders, associated with a detection and acceleration structure that makes the process more robust and more efficient than existing bevel shaders. Moreover, using our implicit surfaces rather than polygonal meshes allows our method to generate extreme close views of the surfaces with a much better visual quality for little additional memory. We illustrate the achieved effects and analyze comparisons generated with existing industrial software shaders.</description>
+    </item>
+    
+  </channel>
+</rss>

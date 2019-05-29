@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Simon Courtin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://simoncourtin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bevel</title>
+      <link>https://simoncourtin.github.io/tags/bevel/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/tags/bevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chamfer</title>
+      <link>https://simoncourtin.github.io/tags/chamfer/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/tags/chamfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit surface representation</title>
+      <link>https://simoncourtin.github.io/tags/implicit-surface-representation/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/tags/implicit-surface-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rendering</title>
+      <link>https://simoncourtin.github.io/tags/rendering/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/tags/rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rounded edges</title>
+      <link>https://simoncourtin.github.io/tags/rounded-edges/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/tags/rounded-edges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shading</title>
+      <link>https://simoncourtin.github.io/tags/shading/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/tags/shading/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

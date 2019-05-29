@@ -6,6 +6,7 @@
     <description>Recent content in Authors on Simon Courtin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://simoncourtin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,11 +14,46 @@
     <item>
       <title></title>
       <link>https://simoncourtin.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://simoncourtin.github.io/authors/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>I&amp;rsquo;m a PhD student (since 2018) in computer graphics at University of Poitiers in France. Work in ASALI axe of XLIM lab with members of IG (computer graphics) team. My principal researchs in my theses interests details in computer generated images.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Meneveaux</title>
+      <link>https://simoncourtin.github.io/authors/daniel-meneveaux/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/authors/daniel-meneveaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mickaël Ribadière</title>
+      <link>https://simoncourtin.github.io/authors/micka%C3%ABl-ribadi%C3%A8re/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/authors/micka%C3%ABl-ribadi%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre Poulin</title>
+      <link>https://simoncourtin.github.io/authors/pierre-poulin/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/authors/pierre-poulin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sébastien Horna</title>
+      <link>https://simoncourtin.github.io/authors/s%C3%A9bastien-horna/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://simoncourtin.github.io/authors/s%C3%A9bastien-horna/</guid>
+      <description></description>
     </item>
     
   </channel>
