@@ -1,9 +1,14 @@
 .default_color{background-color: #dfb1b7 !important}
+.secondary_color{background-color: #dd5d7a !important}
 
 .default_color_text{color: #dfb1b7 !important}
-
+.secondary_color_text{color: #dd5d7a !important}
 .icon-block {
     padding: 0 15px;
+}
+
+.section {
+    border-bottom: #f5d7df solid 7px ;
 }
 
 body {
@@ -61,27 +66,21 @@ body {
     padding: 0;
     letter-spacing: 7px;
 }
+h1{font-size: 3.5rem;}
+h2 {font-size: 3.0rem;}
+.text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 3.5rem;}
+.span_h2 {font-weight: 300;color: #dd5d7a;}
+.text_b{color: #dd5d7a;}
+.text_h2_bold{font-weight: 350;}
 
-h2 {font-size: 3.5rem;}
-.text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.0rem;}
+h3 {font-size: 2.0rem;}
+.text_h3 {font-weight: 250; margin-bottom: 4%; margin-top: 4%; line-height: 3.0rem;}
+.span_h3 {font-weight: 400;color: #dd5d7a;}
 
-.span_h2 {font-weight: 300;color: #dfb1b7;}
+h4 {font-size: 1.5rem;}
 
-.text_b{color: #dfb1b7;}
-
-h3 {font-size: 2.5rem;}
-.text_h3 {font-weight: 250; margin-bottom: 4%; margin-top: 4%; line-height: 3.5rem;}
-.span_h3 {font-weight: 400;color: #dfb1b7;}
-
-h4 {font-size: 2.0rem;}
-
-.text_content {
-    font-size: 1.3rem;
-    line-height: 2.5rem;
-    font-weight: 300;
-
-}
-.span_content {font-weight: 400;color: #dfb1b7;}
+.text_content {font-size: 1.3rem; line-height: 2.5rem; font-weight: 300;}
+.span_content {font-weight: 400;color: #dd5d7a;}
 
 .text_white{
     color:  #fff;
@@ -94,9 +93,10 @@ h4 {font-size: 2.0rem;}
     font-size: 7rem;
     display: block;
 }
-.card-content a {color: #dfb1b7;}
 
-.card-content a:hover {color: #dfb1b7;}
+.nav-wrapper > ul > li:hover{
+    border-bottom: solid 2px white;
+}
 
 #lieu {background: rgb(247, 247, 247);}
 
