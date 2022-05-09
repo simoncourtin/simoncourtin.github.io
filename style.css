@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    z-index: 1;
+}
+
+header .content{
+    background-color: #c5e0b4ff;
+    width: 100%;
+    padding-top: 2rem;
+}
+
+#title {
+    font-size: x-large;
+    margin-left: 10% ;
+}
+
+#subtitle {
+    font-size: medium;
+}
+
+header .decors{
+    background-image: url("background.svg");
+    background-repeat: no-repeat;
+    height: 9rem;
+}
+
+#page {
+    text-align: center;
+    width: 100%;
+    z-index: 10;
+}
+
+
+.button {
+    margin: auto;
+    padding: 1rem;
+    border: solid 3px #c5e0b4ff;
+    border-radius: 10px;
+    width: 15%;
+    font-weight: bolder;
+    color: rgb(131, 157, 115);
+    text-decoration: none;
+}
+.button > .material-icons {
+    vertical-align:middle;
+}
+
+
+.button:hover {
+    background-color: #c5e0b4ff;
+    color: white;
+    transition: background-color 0.5s, color 0.5s;
+
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+    margin-top: auto;
+    width: 100%;
+    z-index: 1;
+}
+
+footer .content{
+    background-color: #c5e0b4ff;
+    width: 100%;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+
+#subtitle {
+    font-size: medium;
+}
+
+footer .decors{
+    background-image: url("background-2.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 12rem;
+}
